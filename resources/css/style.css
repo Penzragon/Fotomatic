@@ -394,13 +394,17 @@ header .mobile {
 
 footer {
 	background-color: #9b9b9b;
-	padding: 1.5rem 2rem;
+	padding: 25px 2rem;
 }
 
 footer .content {
 	color: white;
 	display: flex;
 	font-size: 0.75rem;
+}
+
+footer span {
+	font-size: 12px;
 }
 
 footer .copyright {
